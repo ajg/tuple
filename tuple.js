@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////
 // tuple library v0.1 /////////////////////////////
-// Copyright (c) 2011, Alvaro J. Gutierrez ////////
+// Copyright (c) 2011, Alvaro J. Genial ///////////
 // Released under the MIT, BSD, and GPL licenses //
 
 function Tuple(/*elements...*/) {
